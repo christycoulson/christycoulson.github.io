@@ -1,0 +1,14 @@
+# Quarto build outputs
+/_site/
+/_freeze/
+/.quarto/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+
+# Python (if you ever add it)
+__pycache__/
+*.pyc
