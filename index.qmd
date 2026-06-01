@@ -20,6 +20,7 @@ about:
       href: https://bsky.app/profile/christycouls.bsky.social
 ---
 
-I am a Social Data Scientist and ESRC-funded PhD Candidate at LSE in the Department of Methodology. My research sits at the intersection of interpretable machine learning, political methodology, and conflict studies. I'm particularly interested in how we can leverage the predictive fidelity of advanced ML while preserving the explanatory and inferential qualities of traditional parametric methods. Substantively, I work on protest dynamics, armed group strategy, and the determinants of inter- and intra-state conflict.
+I am a Social Data Scientist and PhD Candidate at LSE in the Department of Methodology. My research sits at the intersection of interpretable machine learning, political methodology, and conflict studies. I'm particularly interested in how we can leverage the predictive fidelity of advanced ML while preserving the explanatory and inferential qualities of traditional parametric methods. Substantively, I work on protest dynamics, armed group strategy, and the determinants of inter- and intra-state conflict.
+
 
 Before academia, I spent a few years as a derivatives trader and data scientist across capital markets, financial services, and legal, leading data science and AI transformation projects for both internal and client-facing work. I still take on selective consulting and enjoy thinking about how to translate methodological advances into actionable practice. 
