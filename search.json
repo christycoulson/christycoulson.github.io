@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "Other stuff",
     "section": "",
     "text": "Coming soon."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV (PDF)\nLast updated: May 2026"
   },
   {
     "objectID": "research.html",
@@ -14,16 +21,9 @@
     "text": "Coming soon."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Coming soon."
-  },
-  {
-    "objectID": "other.html",
-    "href": "other.html",
-    "title": "Other stuff",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
     "text": "Coming soon."
   },
