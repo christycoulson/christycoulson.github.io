@@ -2,4 +2,10 @@
 title: "CV"
 ---
 
-Coming soon.
+[Download CV (PDF)](coulson-academic-cv.pdf){.btn .btn-primary download="coulson-academic-cv.pdf"}
+
+*Last updated: May 2026*
+
+<br>
+
+<iframe src="coulson-academic-cv.pdf" width="100%" height="900px" style="border: 1px solid #ddd;"></iframe>
