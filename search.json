@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "other.html",
-    "href": "other.html",
-    "title": "Other stuff",
-    "section": "",
-    "text": "Coming soon."
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Download CV (PDF)\nLast updated: May 2026"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Coming soon."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -32,6 +11,27 @@
     "href": "index.html",
     "title": "Christy Coulson",
     "section": "",
-    "text": "I am a Social Data Scientist and PhD Candidate at LSE in the Department of Methodology. My research sits at the intersection of interpretable machine learning, political methodology, and conflict studies. I’m particularly interested in how we can leverage the predictive fidelity of advanced ML while preserving the explanatory and inferential qualities of traditional parametric methods. Substantively, I work on protest dynamics, armed group strategy, and the determinants of inter- and intra-state conflict.\nBefore academia, I spent a few years as a derivatives trader and data scientist across capital markets, financial services, and legal, leading data science and AI transformation projects for both internal and client-facing work. I still take on selective consulting and enjoy thinking about how to translate methodological advances into actionable practice."
+    "text": "I am a Social Data Scientist and PhD Candidate at LSE in the Department of Methodology. My research sits at the intersection of interpretable machine learning, political methodology, and conflict studies. I’m particularly interested in how we can leverage the predictive fidelity of advanced ML while preserving the explanatory and inferential qualities of traditional parametric methods. Substantively, I work on protest dynamics, armed group strategy, and the determinants of inter- and intra-state conflict. I also teach and consult on applied data science, machine learning, and causal inference.\nBefore academia, I spent a few years as a derivatives trader and data scientist across capital markets, financial services, and legal, leading data science and AI transformation projects for both internal and client-facing work. I still take on selective consulting and enjoy thinking about how to translate methodological advances into actionable practice."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV (PDF)\nLast updated: May 2026"
+  },
+  {
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "Other stuff",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Coming soon."
   }
 ]
