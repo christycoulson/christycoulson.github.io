@@ -2,4 +2,16 @@
 title: "Publications"
 ---
 
-Coming soon.
+## Working papers
+
+Coulson, C. Uncovering Candidate Moderators of Treatment Effect Heterogeneity From S-learners with SHAP. *Working paper*.
+
+Coulson, C. Two Senses of Feature Use in Tree-Based Models, and Which SHAP Measures. *Working paper*.
+
+Coulson, C. Right Answer, Wrong Reasons: Concept-Based Interpretability as a Construct Validity Audit for Political Text Classifiers. *Working paper*.
+
+Schubiger, L., Myers, E., de Marchi, S., Dorsey, S., & Coulson, C. Mobilization for Equality: Norm Change and Backlash. *Working paper*.
+
+## Reports and discussion papers
+
+Hu, B., Hancock, R., Wittenberg, R., Mayorga-Camus, J., Pauschardt, J., & Coulson, C. (2025). Projections of Adult Social Care Demand and Expenditure in England, 2022 to 2042. *Adult Social Care Research Unit / CPEC Discussion Paper*. [PDF](https://ascru.nihr.ac.uk/wp-content/uploads/2025/02/CPEC_DP_Projection_Final_22Feb25.pdf)
