@@ -1,1 +1,27 @@
 /* css styles */
+
+.teaching-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0.5em 0;
+  border-bottom: 1px solid #eee;
+  gap: 1em;
+}
+
+.teaching-item:last-child {
+  border-bottom: none;
+}
+
+.teaching-date {
+  color: #666;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+@media (max-width: 600px) {
+  .teaching-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

@@ -2,4 +2,29 @@
 title: "Teaching"
 ---
 
-Coming soon.
+## Courses
+
+::: {.teaching-item}
+[**MY474**](https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MY/2026_MY474.htm) — Applied Machine Learning for Social Science, LSE
+[*January 2026 to present*]{.teaching-date}
+:::
+
+::: {.teaching-item}
+[**ME314**](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me314) — Introduction to Data Science and Machine Learning, LSE Summer School
+[*August 2025 to present*]{.teaching-date}
+:::
+
+::: {.teaching-item}
+[**MY464**](https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MY/2026_MY464.htm) — Critical Data Literacy for Media and Communications, LSE
+[*September 2024 to present*]{.teaching-date}
+:::
+
+::: {.teaching-item}
+**MY451** — Introduction to Quantitative Analysis, LSE
+[*September 2023 to present*]{.teaching-date}
+:::
+
+## Awards
+
+- LSE Department of Methodology Class Teacher Award, 2024/25.
+- LSE Department of Methodology Summer School Class Teacher Award, 2025.
