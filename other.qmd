@@ -2,4 +2,33 @@
 title: "Other stuff"
 ---
 
-Coming soon.
+## Talks and presentations
+
+::: {.teaching-item}
+**European Political Science Society Annual Conference 2026** — Political Methodology panel
+[*June 2026 · Belfast*]{.teaching-date}
+:::
+
+::: {.teaching-item}
+**European Political Science Association Annual Conference 2025** — Large Language Models pre-conference workshop
+[*June 2025 · Madrid*]{.teaching-date}
+:::
+
+::: {.teaching-item}
+**European Political Science Association Annual Conference 2024** — Machine Learning panel
+[*July 2024 · Köln*]{.teaching-date}
+:::
+
+## Consulting
+
+I take on selective consulting engagements in data science, machine learning, and quantitative analytics, drawing on prior industry experience across capital markets, financial services, and legal. Reach out via the email on my [homepage](index.qmd) if you would like to discuss a potential engagement.
+
+<!-- 
+## Code and software
+
+Placeholder — will populate with public repositories.
+
+## Writing
+
+Placeholder — will host occasional methodological posts and explainers.
+-->
