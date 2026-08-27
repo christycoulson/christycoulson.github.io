@@ -20,5 +20,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
+    fontsize: 1.05em
+    linestretch: 1.6
+    mainfont: "EB Garamond"
+    monofont: "IBM Plex Mono"

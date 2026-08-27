@@ -2,6 +2,24 @@
 title: "Research"
 ---
 
-My methodological work sits at the intersection of interpretable machine learning and political methodology. I am interested in how we can leverage the predictive fidelity of advanced ML models while preserving the explanatory and inferential qualities of traditional parametric methods. In practice, this means asking what quantities from a fitted ML model can defensibly support causal, descriptive, or measurement claims — and under what conditions they cannot. Current work develops post-hoc measures for discovering candidate moderators of treatment effect heterogeneity, examines the interpretive limits of observation-level SHAP values in socially sensitive decision contexts, and adapts concept-based interpretability methods to audit the construct validity of political text classifiers.
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+![](pinegrove_gig.jpg){fig-align="center"}
+:::
 
+::: {.g-col-12 .g-col-md-8}
+My methodological work sits at the intersection of interpretable machine learning and political methodology. I am interested in how we can leverage the predictive fidelity of advanced ML models while preserving the explanatory and inferential qualities of traditional parametric methods. In practice, this means asking what quantities from a fitted ML model can defensibly support causal, descriptive, or measurement claims — and under what conditions they cannot. Current work develops post-hoc measures for discovering candidate moderators of treatment effect heterogeneity, examines the interpretive limits of observation-level SHAP values in socially sensitive decision contexts, and adapts concept-based interpretability methods to audit the construct validity of political text classifiers.
+:::
+:::
+
+<br>
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-8}
 Substantively, I work on conflict, protest, and political violence. My interests span the strategic behaviour of armed groups, the dynamics linking protest to subsequent political violence, and the legislative and judicial responses to contentious politics. I am particularly drawn to questions where the underlying data-generating process is complex enough that standard parametric models under-perform, but where the inferential stakes require more than black-box prediction.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](way_home_scotland.jpeg){fig-align="center"}
+:::
+:::
