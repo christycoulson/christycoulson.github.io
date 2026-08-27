@@ -1,5 +1,9 @@
 ---
 title: "CV"
+open-graph:
+  image: simbelmyne.jpg
+twitter-card:
+  image: simbelmyne.jpg
 ---
 
 [Download CV (PDF)](coulson-academic-cv.pdf){.btn .btn-primary download="coulson-academic-cv.pdf"}

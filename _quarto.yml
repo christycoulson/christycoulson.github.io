@@ -3,6 +3,12 @@ project:
 
 website:
   title: "Christy Coulson"
+  description: "Social Data Scientist and Political Methodologist at LSE."
+  site-url: "https://christycoulson.github.io"
+  image: simbelmyne.jpg
+  favicon: favicon.ico
+  open-graph: true
+  twitter-card: true
   navbar:
     right:
       - href: index.qmd

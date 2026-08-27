@@ -1,5 +1,9 @@
 ---
 title: "Other stuff"
+open-graph:
+  image: simbelmyne.jpg
+twitter-card:
+  image: simbelmyne.jpg
 ---
 
 ## Talks and presentations

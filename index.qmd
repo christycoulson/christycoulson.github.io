@@ -2,6 +2,10 @@
 title: "Christy Coulson"
 subtitle: "Social Data Scientist and Political Methodologist"
 image: headshot.JPG
+open-graph:
+  image: simbelmyne.jpg
+twitter-card:
+  image: simbelmyne.jpg
 about:
   template: trestles
   image-shape: round
