@@ -1,11 +1,71 @@
-/* css styles */
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap');
 
+/* Accent colour: terracotta */
+:root {
+  --accent: #a05a3c;
+  --accent-hover: #7a4229;
+}
+
+/* Links */
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--accent-hover);
+  text-decoration: underline;
+}
+
+/* Navbar tweaks */
+.navbar {
+  font-family: "EB Garamond", serif;
+  font-size: 1.05rem;
+}
+
+.navbar-brand,
+.navbar-title {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.nav-link.active {
+  color: var(--accent) !important;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "EB Garamond", serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+h1 { font-size: 2.4rem; }
+h2 { font-size: 1.7rem; margin-top: 2em; }
+h3 { font-size: 1.35rem; }
+
+/* Body: tighten paragraph rhythm */
+p {
+  margin-bottom: 1em;
+}
+
+/* About page (home) tweaks */
+.about-entity .about-links a {
+  color: var(--accent);
+}
+
+.about-entity .about-links a:hover {
+  color: var(--accent-hover);
+}
+
+/* Teaching item styling (kept from before) */
 .teaching-item {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
   padding: 0.5em 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #d9d0c1;
   gap: 1em;
 }
 
@@ -14,7 +74,7 @@
 }
 
 .teaching-date {
-  color: #666;
+  color: #a05a3c;
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -24,4 +84,38 @@
     flex-direction: column;
     align-items: flex-start;
   }
+}
+
+/* Navbar recolour: warm dark brown */
+.navbar {
+  background-color: #3a2a20 !important;
+}
+
+.navbar .navbar-brand,
+.navbar .navbar-title,
+.navbar .nav-link {
+  color: #f5ede0 !important;
+}
+
+.navbar .nav-link:hover {
+  color: #d9a878 !important;
+}
+
+.navbar .nav-link.active {
+  color: #e8a17d !important;
+}
+
+/* Terracotta buttons (used on CV page) */
+.btn-primary {
+  background-color: #a05a3c !important;
+  border-color: #a05a3c !important;
+  color: #f5ede0 !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  background-color: #7a4229 !important;
+  border-color: #7a4229 !important;
+  color: #f5ede0 !important;
 }
