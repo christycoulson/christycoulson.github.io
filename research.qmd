@@ -8,7 +8,7 @@ twitter-card:
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-4}
-![](pinegrove_gig.jpg){fig-align="center"}
+![](alta_via_path.jpeg){fig-align="center"}
 :::
 
 ::: {.g-col-12 .g-col-md-8}
