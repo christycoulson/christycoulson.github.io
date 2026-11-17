@@ -8,9 +8,9 @@ twitter-card:
 
 ## Working papers
 
-Coulson, C. Uncovering Candidate Moderators of Treatment Effect Heterogeneity From S-learners with SHAP. *Working paper*.
+Coulson, C. Discovering Candidate Moderators of Treatment Effect Heterogeneity with SHAP. *Working paper*.
 
-Coulson, C. Two Senses of Feature Use in Tree-Based Models, and Which SHAP Measures. *Working paper*.
+Coulson, C. Consulted but Not Relied Upon: A Measure and a Test for Covariate Use. *Working paper*.
 
 Coulson, C. Right Answer, Wrong Reasons: Concept-Based Interpretability as a Construct Validity Audit for Political Text Classifiers. *Working paper*.
 
